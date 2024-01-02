@@ -6,11 +6,11 @@
         },
         {
             "text": "Tüm tarifler",
-            "url": "/tarifler/"
+            "url": "/recipes/"
         },
         {
             "text": "Hakkında",
-            "url": "/hakkinda/"
+            "url": "https://twitter.com/mrt0gl"
         }
     ]
 }
