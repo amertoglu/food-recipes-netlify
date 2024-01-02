@@ -6,7 +6,6 @@ tags:
     - Favoriler ⭐
 sourceLabel: Nefis Yemek Tarifleri
 sourceURL: https://www.nefisyemektarifleri.com/hashasli-corek-11471644
-servings: 2
 ingredients:
 - 2 su bardağı süt (ılık olacak)
 - 1 su bardağı su (ılık olacak)
