@@ -1,5 +1,5 @@
 ---
-title: Haşhaşlı çörek
+title: Haşhaşlı çörek tarifi
 image: https://i.hizliresim.com/q7fc157.jpeg
 tags:
     - Tatlı 🍰
@@ -18,20 +18,20 @@ ingredients:
 - 7-8 su bardağı un (kontrollü ekleyin) 
 ---
 
-Yoğurma kabına su, süt, şeker ve mayayı alalım karıştıralım ve 10 dk bekletelim.
+1. Yoğurma kabına su, süt, şeker ve mayayı alalım karıştıralım ve 10 dk bekletelim.
 
-Bekledikten sonra sıvı yağ, yumurta, tuzu ilace edelim karıştıralım ve unu kontrollü ekleyelim.
+2. Bekledikten sonra sıvı yağ, yumurta, tuzu ilace edelim karıştıralım ve unu kontrollü ekleyelim.
 
-Hamuru yoğurduktan sonra üzerini kapatıp 1 saat mayalandıralım.
+3. Hamuru yoğurduktan sonra üzerini kapatıp 1 saat mayalandıralım.
 
-Hamur mayalanırken iç harcı için haşhaş sıvı yağ ve şekeri bir kaseye alıp karıştıralım.
+4. Hamur mayalanırken iç harcı için haşhaş sıvı yağ ve şekeri bir kaseye alıp karıştıralım.
 
-Mayalanan hamurumuzu tezgaha alalım ve 4 eşit bezeye ayıralım.
+5. Mayalanan hamurumuzu tezgaha alalım ve 4 eşit bezeye ayıralım.
 
-1 bezeyi tezgaha alıp dikdörtgen şekilde merdane ile açalım.
+6. 1 bezeyi tezgaha alıp dikdörtgen şekilde merdane ile açalım.
 
-İç harcımızı döküp rulo yapalım üç parmak genişliğinde keselim tepsiye dizelim.
+7. İç harcımızı döküp rulo yapalım üç parmak genişliğinde keselim tepsiye dizelim.
 
-Üzerine yumurta sürelim.
+8. Üzerine yumurta sürelim.
 
-Önceden ısıtılmış 180 derece fırında kızarana kadar pişirelim.
+9. Önceden ısıtılmış 180 derece fırında kızarana kadar pişirelim.
