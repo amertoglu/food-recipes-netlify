@@ -1,16 +1,16 @@
 {
     "items": [
         {
-            "text": "Home",
+            "text": "Anasayfa",
             "url": "/"
         },
         {
-            "text": "All recipes",
-            "url": "/recipes/"
+            "text": "Tüm tarifler",
+            "url": "/tarifler/"
         },
         {
-            "text": "About",
-            "url": "/about/"
+            "text": "Hakkında",
+            "url": "/hakkinda/"
         }
     ]
 }
