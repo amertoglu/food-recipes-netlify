@@ -1,14 +1,1 @@
-{
-    {
-    "items": [
-        {
-            "text": "Anasayfa",
-            "url": "/"
-        },
-        {
-            "text": "Tüm tarifler",
-            "url": "/recipes/"
-        }
-    ]
-}
-}
+
