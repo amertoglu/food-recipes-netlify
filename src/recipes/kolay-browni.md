@@ -1,5 +1,5 @@
 ---
-title: Kolay browni
+title: Kolay browni tarifi
 image: https://ichef.bbci.co.uk/food/ic/food_16x9_1600/recipes/richchocolatebrownie_1933_16x9.jpg
 tags:
   - Tatlı 🍰
@@ -17,12 +17,12 @@ ingredients:
   - 55g kakao tozu
 ---
 
-Fırını 190C/170C Fan/Gaz'a ısıtın 5. 20x30cm'lik bir fırın tepsisini pişirme kağıdıyla kaplayın.
+1. Fırını 190C/170C Fan/Gaz'a ısıtın 5. 20x30cm'lik bir fırın tepsisini pişirme kağıdıyla kaplayın.
 
-Tereyağı ve şekeri geniş bir tavada yavaşça eritin. Eridikten sonra ocaktan alın ve çikolatayı ekleyin.  Eriyene kadar karıştırın.
+2. Tereyağı ve şekeri geniş bir tavada yavaşça eritin. Eridikten sonra ocaktan alın ve çikolatayı ekleyin.  Eriyene kadar karıştırın.
 
-Yumurtaları çırpın, ardından un ve kakao tozunu karıştırın.
+3. Yumurtaları çırpın, ardından un ve kakao tozunu karıştırın.
 
-Brownie hamurunu hazırlanan kalıba dökün ve 30-35 dakika veya brownienin üst kısmı sertleşip ortasında hala hafif bir sallanma kalana kadar pişirin.
+4. Brownie hamurunu hazırlanan kalıba dökün ve 30-35 dakika veya brownienin üst kısmı sertleşip ortasında hala hafif bir sallanma kalana kadar pişirin.
 
-Fırından çıkarıp kalıbın içerisinde soğumaya bırakın. Brownie'leri henüz sıcakken veya tamamen soğuduğunda 5 cm'lik kareler halinde kesin.
+5. Fırından çıkarıp kalıbın içerisinde soğumaya bırakın. Brownie'leri henüz sıcakken veya tamamen soğuduğunda 5 cm'lik kareler halinde kesin.
