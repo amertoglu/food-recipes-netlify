@@ -5,7 +5,7 @@ tags:
   - Tatlı 🍰
   - Pasta 🎂
   - Favoriler ⭐
-time: 30 dk
+time: 45 dk
 servings: 4
 sourceLabel: BBC good food
 sourceURL: https://www.bbc.co.uk/food/recipes/richchocolatebrownie_1933/
