@@ -1,15 +1,15 @@
 {
     "items": [
         {
-            "text": "Home",
+            "text": "Anasayfa",
             "url": "/"
         },
         {
-            "text": "All recipes",
+            "text": "Tüm tarifler",
             "url": "/recipes/"
         },
         {
-            "text": "About",
+            "text": "Blog",
             "url": "/about/"
         }
     ]
