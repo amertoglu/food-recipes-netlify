@@ -1,6 +1,6 @@
 ---
 layout: layouts/home.njk
-title: Yemek – tatlı – deniz ürünleri ve pratik lezzetler
+title: Hızlı, kolay ve pratik yemek tarifleri
 authorInTitle: false
 metaTitle: Anasayfa
 highlightedTag: Favoriler ⭐
