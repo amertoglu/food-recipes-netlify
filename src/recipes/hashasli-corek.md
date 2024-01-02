@@ -1,6 +1,6 @@
 ---
 title: Haşhaşlı çörek tarifi
-image: https://i.hizliresim.com/q7fc157.jpeg
+image: https://yemek.com/_next/image/?url=https%3A%2F%2Fcdn.yemek.com%2Fmncrop%2F940%2F625%2Fuploads%2F2017%2F05%2Fhashasli-cevizli-corek-tarifi-.jpg&w=1920&q=75
 tags:
     - Tatlı 🍰
     - Favoriler ⭐
