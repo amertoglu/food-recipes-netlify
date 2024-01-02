@@ -3,7 +3,6 @@ layout: layouts/base.njk
 title: Hakkında
 bodyClass: u-free-text
 ---
-![A picture of a black pug wearing a pilot jacket]()
-\
-\
+Hızlı ve kolay yemek tarifleri.
 
+- <a target='_blank' href='https://twitter.com/mrt0gl'>Twitter</a>'dan takip et
