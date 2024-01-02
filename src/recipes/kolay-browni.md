@@ -4,7 +4,7 @@ image: https://ichef.bbci.co.uk/food/ic/food_16x9_1600/recipes/richchocolatebrow
 tags:
   - Tatlı 🍰
   - Favoriler ⭐
-time: 45 dakika
+time: 40 dakika
 servings: 4
 sourceLabel: BBC good food
 sourceURL: https://www.bbc.co.uk/food/recipes/richchocolatebrownie_1933/
