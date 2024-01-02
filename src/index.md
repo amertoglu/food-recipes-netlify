@@ -1,9 +1,9 @@
 ---
 layout: layouts/home.njk
-title: This cookbook belongs to
-authorInTitle: true
+title: Bu yemek tarifleri sizlere özel seçildi
+authorInTitle: false
 metaTitle: Home
-highlightedTag: Favourite ⭐
-highlightedTitle: Some of my favourite recipes
-highlightedLinkText: All my favourite recipes
+highlightedTag: Favorilerim ⭐
+highlightedTitle: Favori tariflerimden bazıları
+highlightedLinkText: Tüm favori tariflerim
 ---
