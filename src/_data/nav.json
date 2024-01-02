@@ -5,11 +5,11 @@
             "url": "/"
         },
         {
-            "text": "Tüm tarifler",
+            "text": "Tarifler",
             "url": "/recipes/"
         },
         {
-            "text": "Notlar",
+            "text": "Blog",
             "url": "https://amertoglu.netlify.app"
         }
     ]
