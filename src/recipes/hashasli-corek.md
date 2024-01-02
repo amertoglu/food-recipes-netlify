@@ -4,6 +4,7 @@ image: https://i.hizliresim.com/q7fc157.jpeg
 tags:
     - Tatlı 🍰
     - Favoriler ⭐
+time: 25 dakika
 sourceLabel: Nefis Yemek Tarifleri
 sourceURL: https://www.nefisyemektarifleri.com/hashasli-corek-11471644
 ingredients:
