@@ -1,7 +1,7 @@
 ---
 layout: layouts/home.njk
 title: Bu yemek tarifleri sizlere özel seçildi
-authorInTitle: false
+authorInTitle: true
 metaTitle: Home
 highlightedTag: Favorilerim ⭐
 highlightedTitle: Favori tariflerimden bazıları
