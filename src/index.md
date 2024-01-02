@@ -5,5 +5,5 @@ authorInTitle: false
 metaTitle: Anasayfa
 highlightedTag: Favoriler ⭐
 highlightedTitle: Favori tariflerimden bazıları
-highlightedLinkText: Tüm favorim
+highlightedLinkText: Tüm favorilerim
 ---
