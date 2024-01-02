@@ -1,9 +1,9 @@
 ---
 layout: layouts/home.njk
-title: Kolay yemek tarifleri
+title: Kolay ve hızlı yemek tarifleri
 authorInTitle: false
 metaTitle: Anasayfa
 highlightedTag: Favoriler ⭐
 highlightedTitle: Favori tariflerimden bazıları
-highlightedLinkText: Tüm favori tariflerim
+highlightedLinkText: Tüm favorim
 ---
