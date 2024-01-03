@@ -1,8 +1,8 @@
 {
     "name": "Yemek tarifleri",
-    "metaDescription": "Sizlere özel yemek tarifleri",
+    "metaDescription": "Hızlı ve kolay yemek tarifleri",
     "author": "Yemek tarifleri",
-    "primaryColor": "#aaffaa",
+    "primaryColor": "#ffebcd",
     "secondaryColor": "#4c4c4c",
     "searchLabel": "Tarifleri ada, etikete veya malzemelere göre bul",
     "searchContainsLabel": "İçerir",
