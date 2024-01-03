@@ -5,6 +5,7 @@ tags:
     - Yemek 🍽️
     - Favoriler ⭐
 time: 50 dakika
+servings: 2
 sourceLabel: Milliyet Yemek
 sourceURL: https://www.milliyet.com.tr/yemek/tarif/barbeku-soslu-tavuk-tarifi-2602008
 ingredients:
