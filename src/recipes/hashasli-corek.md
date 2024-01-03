@@ -2,8 +2,7 @@
 title: Haşhaşlı çörek tarifi
 image: https://yemek.com/_next/image/?url=https%3A%2F%2Fcdn.yemek.com%2Fmncrop%2F940%2F625%2Fuploads%2F2017%2F05%2Fhashasli-cevizli-corek-tarifi-.jpg&w=1920&q=75
 tags:
-    - Tatlı 🍰
-    - Favoriler ⭐
+    - Yemek 🍽️
 time: 25 dakika
 sourceLabel: Nefis Yemek Tarifleri
 sourceURL: https://www.nefisyemektarifleri.com/hashasli-corek-11471644
