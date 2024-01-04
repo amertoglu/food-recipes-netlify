@@ -2,6 +2,6 @@
 layout: layouts/home.njk
 metaTitle: Anasayfa
 highlightedTag: Favoriler ⭐
-highlightedTitle: Size özel önerdiklerim
+highlightedTitle: Size önerilen tarifler
 highlightedLinkText: Tüm favoriler
 ---
