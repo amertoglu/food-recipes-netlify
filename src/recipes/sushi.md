@@ -4,7 +4,6 @@ image: https://i.lezzet.com.tr/images-xxlarge-secondary/sushi-cesitleri-nelerdir
 tags:
   - Japon 🇯🇵
   - Yemek 🍽️
-  - Favoriler ⭐
 time: 10 dakika
 servings: 1
 sourceLabel: Yemek.com
