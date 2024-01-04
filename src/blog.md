@@ -4,5 +4,4 @@
 <br/>
 <a target='_blank' href='https://twitter.com/mrt0gl'>Twitter</a>'a git. 🐦</h1>
 <br/>
-<br/>
 Merhaba dünya!
