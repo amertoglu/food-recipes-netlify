@@ -5,12 +5,12 @@
             "url": "/"
         },
         {
-            "text": "Tüm tarifler",
+            "text": "Tarifler",
             "url": "/recipes/"
         },
         {
-            "text": "Yaz ✍️",
-            "url": "mailto:abdullah.mertoglu23@gmail.com"
+            "text": "Twitter",
+            "url": "https://twitter.com/mrt0gl"
         }
     ]
 }
