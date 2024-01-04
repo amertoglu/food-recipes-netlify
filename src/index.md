@@ -1,6 +1,6 @@
 ---
 layout: layouts/home.njk
-title: Sade bir yemek tarifleri arşivi
+title: Yemek tarifleri
 authorInTitle: false
 metaTitle: Anasayfa
 highlightedTag: Favoriler ⭐
