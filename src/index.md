@@ -1,6 +1,6 @@
 ---
 layout: layouts/home.njk
-title: Hızlı ve kolay yemek tarifleri
+title: Sade bir yemek tarifleri arşivi
 authorInTitle: false
 metaTitle: Anasayfa
 highlightedTag: Favoriler ⭐
