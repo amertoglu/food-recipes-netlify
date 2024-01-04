@@ -1,5 +1,5 @@
 ---
-title: Barbekü soslu tavuk tarifi
+title: Barbekü soslu tavuk
 image: https://image.milimaj.com/i/milliyet/75/0x410/5c8dade307291c1d74042f48.jpg
 tags:
     - Yemek 🍽️
