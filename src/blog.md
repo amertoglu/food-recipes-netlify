@@ -1,7 +1,1 @@
-<h1><a href='/'>Geri</a>
-<br/>
-<a target='_blank' href='mailto:abdullah.mertoglu23@gmail.com'>Bana yaz. ✍️</a>
-<br/>
-<a target='_blank' href='https://twitter.com/mrt0gl'>Twitter</a>'a git. 🐦</h1>
-<br/>
-Merhaba dünya!
+<a class="twitter-timeline" href="https://twitter.com/mrt0gl?ref_src=twsrc%5Etfw">Tweets by mrt0gl</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
