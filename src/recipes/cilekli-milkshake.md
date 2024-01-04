@@ -3,7 +3,7 @@ title: Çilekli milkshake
 image: https://i.lezzet.com.tr/images-xxlarge-recipe/cilekli_milkshake-5454d294-dd4b-4c87-a53e-bfb0f728522e.jpg
 tags:
     - İçecek 🥤
-    - Favoriler ⭐
+    - Favori ⭐
     - Tatlı 🍰
 time: 10 dakika
 servings: 1
