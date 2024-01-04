@@ -1,6 +1,6 @@
 ---
 layout: layouts/home.njk
-title: Hızlı, kolay ve pratik yemek tarifleri
+title: Pratik ve kolay yemek tarifleri
 authorInTitle: false
 metaTitle: Anasayfa
 highlightedTag: Favoriler ⭐
