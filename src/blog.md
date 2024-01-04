@@ -1,3 +1,3 @@
 <a href='/'>Geri</a>
 <br/>
-<a target='_blank' href='https://twitter.com/mrt0gl'>Yazılarımı gör.</a>
+<a target='_blank' href='https://twitter.com/mrt0gl'>Twitter</a>'a git.
