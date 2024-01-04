@@ -1,9 +1,7 @@
 ---
 layout: layouts/home.njk
 metaTitle: Anasayfa
-highlightedTag: 
-Favoriler ⭐
-Yemek 🍽️
+highlightedTag: Favoriler ⭐
 highlightedTitle: Favori tariflerden bazıları
 highlightedLinkText: Tüm favoriler
 ---
