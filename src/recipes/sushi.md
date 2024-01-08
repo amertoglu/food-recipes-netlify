@@ -3,7 +3,7 @@ title: Suşi
 image: https://i.lezzet.com.tr/images-xxlarge-secondary/sushi-cesitleri-nelerdir-japon-usulu-15-sushi-cesidi-265e4d81-cc4b-404b-85ed-8f76a2f2e64c.jpg
 tags:
   - Japon 🇯🇵
-  - Yemek 🍽️
+  - Deniz ürünleri 🐟
 time: 10 dakika
 servings: 1
 sourceLabel: Yemek.com
